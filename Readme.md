@@ -2,7 +2,7 @@
 
 One stop solution for every coding interviews.
 
-The deployed website can be found here : ![Website](http://54.178.80.140:3001/)
+The deployed website can be found here : [Website](http://54.178.80.140:3001/)
 
 Following features are present in the web applicaton.
 
