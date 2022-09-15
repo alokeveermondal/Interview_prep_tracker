@@ -2,32 +2,32 @@
 
 One stop solution for every coding interviews.
 
-Following features are present in web applicaton.
+Following features are present in the web applicaton.
 
-### Home Page
+## Home Page
 ![Home Page](demo/homepage.png)
 
-### Authentication
+## Authentication
 ![Log In](demo/login.png)
 ![Sign Up](demo/signup.png)
 
-### Blogs
+## Blogs
 ![All Blogs](demo/allblogs.png)
 ![My Blogs](demo/myblogs.png)
 ![New Blog](demo/newblog.png)
 
-### Programming
+## Programming
 ![Categories](demo/categories.png)
 ![All Questions](demo/allquestions.png)
 ![Add a new question](demo/addanewquestion.png)
 
-### Companies
+## Companies
 ![All Companies](demo/allcompanies.png)
 ![Add a new Company](demo/addanewcompany.png)
 
-### Interview Experiences
+## Interview Experiences
 ![Experiences](demo/experiences.png)
-![Add your Experience](demo/addyourexperince.png)
+![Add your Experience](demo/addyourexperience.png)
 
-### Profile
+## Profile
 ![My Profile](demo/profile.png)
